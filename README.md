@@ -52,4 +52,3 @@ python NetEaseShare.py
 
 ## 协议
 * GPLv3
-* MIT
