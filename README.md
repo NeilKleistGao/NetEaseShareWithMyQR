@@ -21,18 +21,21 @@
 ## 使用方法
 
 使用git将项目clone至本地：<br/>
+
 ```markdown
 git clone https://github.com/NeilKleistGao/NetEaseShareWithMyQR.git
 ```
 <br/>
 或者下载ZIP后解压。<br/>
 进入目录后：<br/>
+
 ```markdown
 python NetEaseShare.py
 ```
 <br/>
 默认情况下只显示搜索结果的前32位。<br/>
 最终效果：<br/>
+
 ![image](show.png)
 
 
