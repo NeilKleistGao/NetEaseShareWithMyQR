@@ -1,0 +1,2 @@
+# NetEaseShareWithMyQR
+使用专辑封面制作二维码分享网易云音乐
